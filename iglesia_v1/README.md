@@ -1,0 +1,2 @@
+# Control de Gestion de procesos para Iglesia
+Modulo de control de procesos para iglesia donde cubre los parametros de registro de miembros conjuntamente con sus datos familiares y economicos, registros de ministerios y nuevos creyentes, gererador de reporte, recibos como registros de los eventos realizados con sus participantes, envia correos de confirmacion de inscripcion a los congresos entre otros.
